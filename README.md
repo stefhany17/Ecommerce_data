@@ -1,4 +1,5 @@
 # ETL de E-commerce: Centralización de Datos de Productos y Compras
+# Stefhany Rodriguez
 
 ## Descripción del proyecto
 Este proyecto centraliza la información operativa de una empresa de e-commerce. Los datos provienen de una API externa que tiene información de **productos** y **compras** en formato JSON.  
