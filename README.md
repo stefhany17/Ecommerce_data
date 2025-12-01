@@ -114,4 +114,5 @@ CREATE TABLE IF NOT EXISTS purchase_products (
 );
 
 ```
+## Capturas de pantalla del pipeline ejecutándose correctamente.
 
