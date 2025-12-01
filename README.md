@@ -115,4 +115,6 @@ CREATE TABLE IF NOT EXISTS purchase_products (
 
 ```
 ## Capturas de pantalla del pipeline ejecutándose correctamente.
-
+![Ejecución paso 1](images/1.png)
+![Ejecución paso 2](images/2.png)
+![Ejecución paso 3](images/3.png)
